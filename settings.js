@@ -16,22 +16,22 @@ global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
 global.owner = ['201098906252'] //ur owner number
-global.ownername = "ᗴᒪᘜᗩᘔᗩᖇ ᗩᒪᗯᗩᘔᗴᖇ❤️" //ur owner name
-global.ytname = "YT: ELGAZAR" //ur yt chanel name
-global.socialm = "GitHub: ELGAZAR" //ur github or insta name
+global.ownername = "𝒀𝑶𝑯𝑨𝑵 𝑮𝑬𝑻••🇹🇭✓" //ur owner name
+global.ytname = "YT: YOHAN_GET" //ur yt chanel name
+global.socialm = "GitHub: YOHAN" //ur github or insta name
 global.location = "Africa, Egypt, Cairo" //ur location
 
 //bot bomdy 
 global.ownernomer = "201098906252" //ur number
 global.premium = ['201098906252'] //ur premium number
-global.botname = '❤️ᗴᒪᘜᗩᘔᗩᖇ ᗷOT❤️' //ur bot name
-global.linkz = "https://youtube.com/@ABDALLAH_MOHAMED" //your theme url which will be displayed on whatsapp
+global.botname = '𝒀𝑶𝑯𝑨𝑵 𝑮𝑬𝑻••🇹🇭✓ ᗷOT❤️' //ur bot name
+global.linkz = "+212657447744" //your theme url which will be displayed on whatsapp
 global.websitex = "https://telegra.ph/file/ec763cc3e7c88d0e67682.jpg" //ur website to be displayed
-global.botscript = 'https://youtube.com/@ABDALLAH_MOHAMED' //script link
+global.botscript = 'https://youtube.com/@yohan_royal' //script link
 global.themeemoji = "♥" //ur theme emoji
-global.packname = "⍣الجزار الوزير يروحي⍣" //ur sticker watermark packname
-global.author = "⍣01098906252⍣" //ur sticker watermark author
-global.wm = "❤️ᗴᒪᘜᗩᘔᗩᖇ ᗷOT❤️." //ur watermark
+global.packname = "𝒀𝑶𝑯𝑨𝑵 𝑮𝑬𝑻••🇹🇭✓⍣" //ur sticker watermark packname
+global.author = "⍣+212657447744⍣" //ur sticker watermark author
+global.wm = "𝒀𝑶𝑯𝑨𝑵 𝑮𝑬𝑻••🇹🇭✓." //ur watermark
 
 // Other
 global.sessionName = 'session'
@@ -44,12 +44,12 @@ global.mess = {
     admin: '『 الامر دا لادمن بس! 』',
     botAdmin: '『 ارفع البوت ادمن الاول 』',
     premime: '『 ميزات خاصة متميزة إذا كنت ترغب في تسجيل نوع الإيجار 』',
-    owner: '『 الميزه دي للمطور بس! 』',
+    owner: '『 هاده الميزة خاصة ب يوهان! 』',
     group: '『 الميزه دي للجروبات بس! 』',
     private: '『 الميزه دي في الخاص بس! 』',
     bot: '『 الميزه دي للبوت بس! 』',
     wait: '『 استني شويه... 』',
-    linkm: '『 فين الرابط? 』',
+    linkm: '『 واش حمق فيناهواك رابط? 』',
     endLimit: 'انتهت صلاحية الحد اليومي الخاص بك ، وسيتم إعادة تعيين الحد كل 12 ساعة',
     nsfw: 'لم يتم تنشيط ميزة nsfw ، يرجى الاتصال بالمسؤول للتفعيل',
 }
